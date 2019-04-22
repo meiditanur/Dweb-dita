@@ -7,10 +7,10 @@ body,html{
     padding: 10px 20px
 }
 .link:hover{
-    background: aqua;
+    background: white;
 }
 .section1{
-    background:url(../img/maxresdefault.jpg);
+    background: url(../img/sakura1.jpg);
     width:100%;
     height:100%;
     text-align: center;
@@ -19,25 +19,40 @@ body,html{
 .judul{
     font-family: inherit;
     font-size: 70px;
+    color: black;
+    margin: auto;
+}
+.judul2{
+    font-family: inherit;
+    font-size: 70px;
     color: #B4CE3D;
     margin: auto;
 }
 .subjudul{
-    font-family: Solid Italic;
+    font-family: monospace;
     font-size: 50px;
     color: #8BE6B2;
 }
 .section2{
-    background: #FF8B8D;
+    background:pink;
     padding: 170px 0px
 }
 .section3{
     background: grey;
-    padding: 250px 0px;
+    padding: 150px 0px;
+    text-align: center;
 }
 .col-warna{
-    background: #fff;
+    background: white;
 }
 .col-warna2{
-    background: pink
+    background: skyblue
+}
+.col-warna3{
+    background: orange;
+}
+.section4{
+    background: skyblue;
+    padding: 130px 0px;
+    text-align: center;
 }
